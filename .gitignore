@@ -11,7 +11,7 @@ wheels/
 venv/
 
 # Django
-db.sqlite3
+amal.sqlite3
 *.sqlite3
 
 # Secrets
